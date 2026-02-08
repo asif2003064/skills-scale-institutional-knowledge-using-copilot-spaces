@@ -55,14 +55,25 @@ Communication follows a regular cadence with daily 15-minute standups, weekly de
 8. **[Roles and Personas](octoacme-roles-and-personas.md)**  
    Detailed descriptions of team roles, responsibilities, and collaboration patterns
 
+### Supporting Templates and Checklists
+
+9. **[Role Onboarding Checklist](role-onboarding-checklist.md)**  
+   Comprehensive onboarding checklist for all roles to ensure consistent knowledge transfer
+
+10. **[RACI Matrix Template](raci-matrix-template.md)**  
+    Responsibility assignment matrix to clarify accountability across project activities
+
+11. **[Collaboration Scenarios Template](collaboration-scenarios-template.md)**  
+    Common cross-role collaboration patterns and workflows for effective teamwork
+
 ## Getting Started
 
 If you're new to OctoAcme, we recommend starting with the [Project Management Overview](octoacme-project-management-overview.md) to understand our core principles and approach. Then, depending on your role:
 
-- **Project Managers**: Review the full documentation set, with special focus on Planning, Execution and Tracking, and Risks and Communication
-- **Product Managers**: Focus on Project Initiation, Planning, and Roles and Personas
+- **Project Managers**: Review the full documentation set, with special focus on Planning, Execution and Tracking, and Risks and Communication. Use the [RACI Matrix Template](raci-matrix-template.md) for accountability tracking.
+- **Product Managers**: Focus on Project Initiation, Planning, and Roles and Personas. Review [Collaboration Scenarios](collaboration-scenarios-template.md) for cross-functional workflows.
 - **Developers**: Start with Execution and Tracking, Release and Deployment, and Retrospective and Continuous Improvement
-- **New Team Members**: Read through the overview and skim the other documents to get familiar with our processes
+- **New Team Members**: Read through the overview and complete the [Role Onboarding Checklist](role-onboarding-checklist.md) relevant to your role
 
 ## Contributing
 
